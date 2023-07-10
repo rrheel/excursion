@@ -1,0 +1,38 @@
+/*Font Styles*/
+
+h1 {
+    font-family: verdana;
+    font-size: 50px;
+    color: white;
+    justify-content: center;
+    font-weight: normal;
+}
+
+h2 {
+    font-family: verdana;
+    font-weight:300;
+    font-size: 42px;
+    color: white;
+}
+
+.cta {
+    color: aquamarine;
+    font-size: 16px;
+}
+
+p {
+    font-family: verdana;
+    font-size: 21px;
+    color: gray;
+}
+
+/*Other*/
+body {
+    background-color: black;
+    text-align: center;
+}
+
+.footer {
+   text-align: right;
+   color: gray; 
+}
